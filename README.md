@@ -18,6 +18,10 @@ Researcher - Tech Writer - Automation Wiz
 - **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, ML in Healthcare. <br>
 - **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch. <br>
 - **Data Analysis**: MS Excel, SAS, Tableau, Power BI.<br>
-- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Photo Manipulations using Python.
+- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Photo Manipulations using Python.
 - **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills.
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
+
+## **Medium Blogs** :
+- [Early Detection of Diabetes using AI and Machine Learning Models](https://isb-institute-of-data-science.medium.com/early-detection-of-diabetes-using-ai-and-machine-learning-models-ba05a49d80ef)
+- [Knowledge Graph: Facilitates Fraud Analytics](https://isb-institute-of-data-science.medium.com/knowledge-graph-for-financial-services-c9cb7c3fe2b9)
