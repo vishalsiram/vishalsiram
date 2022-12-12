@@ -22,6 +22,8 @@ Researcher - Tech Writer - Automation Wiz
 - **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills.
 - Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
 
-## **Medium Blogs** :
+## **Blogs** :
 - [Early Detection of Diabetes using AI and Machine Learning Models](https://isb-institute-of-data-science.medium.com/early-detection-of-diabetes-using-ai-and-machine-learning-models-ba05a49d80ef)
 - [Knowledge Graph: Facilitates Fraud Analytics](https://isb-institute-of-data-science.medium.com/knowledge-graph-for-financial-services-c9cb7c3fe2b9)
+- [How GAN can help us to improve face image data(with demo)](https://statusneo.com/how-gan-can-help-us-to-improve-face-image-datawith-demo/)
+
