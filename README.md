@@ -12,3 +12,12 @@ Researcher - Tech Writer - Automation Wiz
 <a href="https://vishalsiram.github.io/Vishal/"><img height="25" src="https://img.shields.io/badge/Website-%1020beff"></a>
 <a href="https://www.kaggle.com/hackspyder"><img height="25" src="https://img.shields.io/badge/Kaggle-%2320beff"></a>
 </p>
+
+## **Skills** :
+- **Programming**: Python (Advanced), C (For Contests), R, SQL<br>
+- **ML Techniques** : Deep Learning, NLP, Graph Neural Networks, ML in Healthcare. <br>
+- **DS & ML Tools (Python)** : NumPy, Pandas, Matplotlib, Seaborn, Scikitlearn, Keras, Tensorflow, Pycaret, PyTorch. <br>
+- **Data Analysis**: MS Excel, SAS, Tableau, Power BI.<br>
+- **IT Automation**: Automation in MS Word, Powerpoint, Excel, Google Sheets, Adobe Photoshop, Illustrator, Photo Manipulations using Python.
+- **IT Skills**: Software Troubleshooting, Advanced in IT and computer Skills.
+- Product Development, Project Management, Business Development and Strategic Planning and Analysis.<br>
